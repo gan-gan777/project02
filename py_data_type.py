@@ -20,4 +20,25 @@ python数据类型，按照特征可以划分为4个大类：数字类型，序�
             decima（不是内建类型
     序列类（shell中叫数组）
         字符串 str
+        元祖 tuple
+        列表 list
+    映像类型
+        字典 dict
+    集合类型
+        可变集合 set
+        不可变集合 frozenset
+
+python数据类型，安装可变性（是否可变）划分，可以划分为2大类，7小类。
+    可哈希的，不可变的数据类型
+        数字类型
+        不可变集合 frozenset
+        字符串 str
+        元祖 tuple
+    可变的数据类型
+        字典 dict
+        列表 list
+        可变集合 set
+···
+
+
         
